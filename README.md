@@ -27,6 +27,15 @@ This is an anonymous reporting system built with Next.js 14, designed to provide
 - React Hook 
 - Google Gemini
 - BCrypt for Password Encryption
+ 
+## <a name="features">🔋 Features</a>
+
+- **Anonymous Reporting**: Submit reports without revealing your identity.
+- **Secure Evidence Upload**: safely upload images/videos related to incidents.
+- **AI Analysis**: Powered by Google Gemini to analyze and categorize reports.
+- **Location Support**: Integrated Mapbox for precise incident location.
+- **Admin Dashboard**: Comprehensive view for authorities to manage reports.
+- **Real-time Updates**: Status tracking for submitted reports.
 
 ## <a name="quick-start">🤸 Quick Start</a>
 
