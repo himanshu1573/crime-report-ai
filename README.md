@@ -15,7 +15,7 @@
 
 ## <a name="introduction">🤖 Introduction</a>
 
-This is a anonymous reporting system built with Next.js 14, designed to provide a secure platform for reporting incidents while maintaining complete anonymity.
+This is an anonymous reporting system built with Next.js 14, designed to provide a secure platform for reporting incidents while maintaining complete anonymity.
 
 ## <a name="tech-stack">⚙️ Tech Stack</a>
 
@@ -42,7 +42,7 @@ Make sure you have the following installed:
 
 ```bash
 # Clone the repository
-git clone <your-repo-url>
+git clone https://github.com/himanshu1573/crime-report-ai.git
 cd CrimeAlert-app
 
 # Install dependencies
